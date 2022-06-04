@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<korisnici>
+<korisnik>
+	<email>arupcic@tvz.hr</email>
+	<password>abc</password>
+	<ime>Antun</ime>
+    <prezime>Rupčić</prezime>
+</korisnik>
+
+<korisnik>
+	<email>mmarkovic@tvz.hr</email>
+	<password>asd</password>
+	<ime>Marko</ime>
+    <prezime>Marković</prezime>
+</korisnik>
+
+<korisnik>
+	<email>lmodric@tvz.hr</email>
+	<password>qwer</password>
+	<ime>Luka</ime>
+    <prezime>Modrić</prezime>
+</korisnik>
+</korisnici>
